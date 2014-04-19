@@ -1,9 +1,9 @@
 {
   "name": "ember-list-view",
   "description": "An efficient incremental rendering list view for large lists.",
-  "version": "0.0.4",
+  "version": "0.0.1",
   "main": [
-    "dist/list-view.js"
+    "components/list-view.js"
   ],
   "license": "MIT",
   "ignore": [

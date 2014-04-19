@@ -1,3 +1,13 @@
+// Last commit: 98d1585 (2014-04-19 12:43:50 +0900)
+
+
+// ==========================================================================
+// Project:   Ember ListView
+// Copyright: ©2012-2013 Erik Bryn, Yapp Inc., and contributors.
+// License:   Licensed under MIT license
+// ==========================================================================
+
+
 (function() {
 var get = Ember.get, set = Ember.set;
 
